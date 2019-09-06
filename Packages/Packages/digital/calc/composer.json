@@ -1,0 +1,19 @@
+{
+    "name": "digital/calc",
+    "description": "This will used for calculator package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "digitalcrm",
+            "email": "info@digitalcrm.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+      "autoload": {
+        "psr-4": {
+            "Digital\\Calc\\": "src/"
+        }
+    }
+}
